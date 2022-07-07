@@ -1,0 +1,14 @@
+body {
+    background-color: aqua;
+    width: 100%;
+    height: 100vh;
+}
+
+.contenido {
+    text-align: center;
+}
+
+.imagen {
+    margin-top: 50px;
+    width: 750px;
+}
